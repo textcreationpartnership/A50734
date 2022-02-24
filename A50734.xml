@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made by Sir Audley Mervyn His Majesties prime serjeant at law in Ireland, the 11th. day of May in the House of Lords when he was presented speaker by the Commons, before the right honourable Sir Maurice Eustace Knight, Lord Chancellour of Ireland, Roger Earl of Orrery, and Charles Earl of Mountrath, His Majesties Lord Justices of his kingdom of Ireland.</title>
+            <author>Mervyn, Audley, Sir, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50734</idno>
+            <idno type="STC">Wing M1890</idno>
+            <idno type="STC">ESTC R8040</idno>
+            <idno type="EEBO-CITATION">12922335</idno>
+            <idno type="OCLC">ocm 12922335</idno>
+            <idno type="VID">95411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 989:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made by Sir Audley Mervyn His Majesties prime serjeant at law in Ireland, the 11th. day of May in the House of Lords when he was presented speaker by the Commons, before the right honourable Sir Maurice Eustace Knight, Lord Chancellour of Ireland, Roger Earl of Orrery, and Charles Earl of Mountrath, His Majesties Lord Justices of his kingdom of Ireland.</title>
+                  <author>Mervyn, Audley, Sir, d. 1675.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Bladen ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95411:1"/>
+            <p>A SPEECH Made by Sir <hi>Audley Mervyn</hi> his Majeſties Prime Serjeant at Law in IRELAND, the 11<hi rend="sup">th.</hi> day of <hi>May</hi> in the Houſe of Lords, when he was preſented Speaker by the Commons, before the Right Ho<g ref="char:EOLhyphen"/>nourable Sir <hi>Maurice Euſtace</hi> Knight, Lord Chan<g ref="char:EOLhyphen"/>cellour of IRELAND, <hi>Roger</hi> Earl of <hi>Orrery,</hi> and <hi>Charles</hi> Earl of <hi>Mountrath,</hi> his Majeſties Lord Ju<g ref="char:EOLhyphen"/>ſtices of his Kingdom of IRELAND.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <dateline>
+                              <date>11<hi rend="sup">o</hi> 
+                                 <hi>May</hi> 1661.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered, upon the Queſtion <hi>nemine contradicente,</hi> that Mr. Speaker be deſired to cauſe his Speech this day delivered in the Houſe of Lords to be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Philip Fernely,</hi> Cler. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Dublin</hi> Printed by <hi>William Bladen,</hi> by ſpecial Order, <hi>Anno Dom.</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:95411:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:95411:2"/>
+            <head>Sir <hi>Audley Mervyns</hi> Speech.</head>
+            <opener>
+               <salute>Moſt Great and Honourable Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Knights, Citizens, and Burgeſſes, in Obedience to Your Lordſhips Com<g ref="char:EOLhyphen"/>mands, according to their ancient Cu<g ref="char:EOLhyphen"/>ſtom and Priviledge, proceeded to the Election of their Speaker: and paſſing by many perſons of ſignal Abilities, and long Experience, (for truly that Houſe is furniſhed with excellent choiſe,) have fixed their eye of favour and affection upon me the meaneſt Member of that great Aſ<g ref="char:EOLhyphen"/>ſembly; It were <hi>ominus</hi> they ſhould thus <hi>limine impingere,</hi> but that they know ſuch is the prudence and circumſpection of that Houſe in the Mannagement of their Affairs, that they can ſuffer no prejudice by the diſabilities of any one Perſon ſerving and obſerving their Commands: Thus have I ſeen a tender Parent placing one of his little ones before him in the Saddle, and ſeemingly intruſting the Raines in his hands, when ſecretly the Command reſted in his own, (an act evi<g ref="char:EOLhyphen"/>dencing Affection without impeachment of his Care:) I then offered my ayd Prayer, that no further proceedings ſhould be herein <hi>Rege in conſulto,</hi> and then bluſhingly led them into ſuch receſſes where my ambaſh't infirmities had ſo long ſe<g ref="char:EOLhyphen"/>cured
+<pb n="2" facs="tcp:95411:3"/>
+themſelves, (though without drawing of the Curtains the Scene of my Errours was too too viſible.) Were it but to deſigne a Pilot to a Fly Boat betwixt <hi>Dover</hi> and <hi>Callis,</hi> the Conſultation were not of much Importance, but when a Ship of the ſecond rate is to be rigd forth, for a long Voy<g ref="char:EOLhyphen"/>age (for all that we know) through Flats, contrary Tides, and we are not ſure of a Trade wind; it is your care (GREAT LORDS,) though the Marriners hazard their own lives, and Cargazoon with the Pilot of their own choice <hi>Communi ſa<g ref="char:EOLhyphen"/>luti Proſpicere:</hi> I hope to hear the voice of your Lordſhips to them ſaying,
+<q>
+                  <l>O Navis referunt in Mare te novi fluctus</l>
+                  <l>ô quid agis! fortiter occupa portum</l>
+               </q>
+            </p>
+            <p>Wherefore moſt Honourable Lords, with Confidence equal to my Humility, I beg that your Lordſhips would be pleaſed to give me a <hi>ſuperſedeas</hi> and diſcharge from a burthen ſo diſproportiohable to my ſtrength; Give me leave to put off <hi>Saul's</hi> Armour before You, and be pleaſed to lay your profitable Commands upon the Commons to improve their ſecond inquiry amongſt themſelves, (there is many a <hi>Saul</hi> taller by the head and ſhoulders then my ſelf hidden amongſt the ſtuff,) and to preſent a perſon, upon whoſe very appear<g ref="char:EOLhyphen"/>ance in this place, your Lordſhips may warrantably conclude this is the Man whom the Houſe of Commons intends to ho<g ref="char:EOLhyphen"/>nour.</p>
+            <p>Here the Lord Prmiate of <hi>Ireland</hi> Speaker of the Houſe of Lords declared in a ſhort, pithy and eloquent Speech the Lords Iuſtices approbation of the Speaker: who then proceeded.</p>
+            <p>Moſt Great and Honourable Lords: I find my ayd Prayer over ruled, and a <hi>Procedendo</hi> iſſued: I crave leave to chide my ſelf, I onely conſidered <hi>Terminas ad quem</hi> when I appealed to
+<pb n="3" facs="tcp:95411:3"/>
+               <hi>Caeſar,</hi> and reflected not upon <hi>Terminus à quo</hi> the Houſe of Commons: may this hour of this day guide all the days of our continuance, that the Commons may never preſent that Prayer unto <hi>Caeſar,</hi> to which <hi>Caeſar</hi> may not cheerfully ſay, <hi>Amen;</hi> Now my Devotion inſtructs me with a mannerly Theſis, Obedience is better then Sacrifice: The Voice of your Lordſhips Confirmation hath ſilenc't the whiſpers of my Fears: The Stamps of Kings paſs vulgar Mettals beyond their intrinſick value; I humbly ſubmit, and dutifully wel<g ref="char:EOLhyphen"/>come this pleaſing force;
+<q>
+                  <l>Fax grata est, gratum vulnus, mihi grata cataena</l>
+                  <l>Me quibus aſtringit laedit, &amp; urit amor;</l>
+                  <l>Sed flammam extingui ſanari vulnera, ſolvi</l>
+                  <l>Vincula, non poſſum, ſi modo poſse velim:</l>
+               </q>
+            </p>
+            <p>And therefore in the firſt place, <hi>(A love principium)</hi> I bow my knees, and raiſe my Heart to Heaven, that he that looſeth the ſtammering tongue, and was a mouth unto <hi>Moſes,</hi> will fill my heart with wiſdom, and my mouth with wiſe ſayings; And thou O Lord, who ſtandeſt in the Congregation of the mighty, and judgeſt amongſt the Gods, who haſt ſigned the Original Command of this Truſt upon Me, <hi>Da Domine quod jubes, &amp; jube quod vis.</hi>
+            </p>
+            <p>Here I might wind up all with thoſe uſual and neceſſary requeſts in the behalf of thoſe that ſent me, but give me leave to recollect my ſelf. Can I be in this mount of transfiguration and not ſay let us build 3 Tabernacles, and put on this Inſcri<g ref="char:EOLhyphen"/>ption, <hi>Bonumeſt eſse hic;</hi> Your Lordſhips being 3 Perſons of Honour, yet making up the repreſentation of one, and that the beſt of Monarchs, may warrant me to apply <hi>Ternarius Numerus eſt facer:</hi> Let no man be offended that I call it a Mount of Transfiguration: Have we not th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe many years been walking through the Wilderneſs without a <hi>Moſes,</hi> with<g ref="char:EOLhyphen"/>out
+<pb n="4" facs="tcp:95411:4"/>
+an <hi>Aaron?</hi> Hath not our Fleſh been torn with Bryars, and our Loyns whipt with Scorpions? hath not the tale of our Brick been doubled, and proviſion of Straw exacted at our own hands? Hath not our Fountains, Fountains of liv<g ref="char:EOLhyphen"/>ing water been dammed up, or poyſoned, and not a Pro<g ref="char:EOLhyphen"/>phet left to heal the waters, and We in the <hi>interim</hi> forc't to draw out of Ciſterns and muddy pits? Hath not the Parlia<g ref="char:EOLhyphen"/>ments of this Kingdom been carryed into Captivity, and our Senators that ſhould be, become Perepateticks and Pilgrims to titulary Conventions: when we asked for Fiſh, have not they Voted Scorpions? and when we have Petitioned for Bread have they not given us Stones: and is not this place then a Mount of Transfiguration? Hath not Our dread So<g ref="char:EOLhyphen"/>veraign Lord the King, (of whom the world is not worthy) been baniſht into Forrain Countries, ſo that he might take up that expreſſion, <hi>The Foxes have holes, and the Birds of the air have neſts,</hi> but the Son and undoubted Heir of three glorious King<g ref="char:EOLhyphen"/>doms, nay the native &amp; lineal King of them had not a place to reſt his head in: but praiſed be that God that at the ſame time he made a hard ſtone to be his pilow, ſweetned his repoſe with heavenly viſions: and is not this place now a mount of transfi<g ref="char:EOLhyphen"/>guration? Where were thoſe <hi>Regalia</hi> we now behold: that robe of Majeſty before Your Lordſhips, was the Garment for which they caſt lotts: that Sword, of which it may be ſaid, <hi>Non eſt alter Talis,</hi> whoſe edge was ſharpened, and whoſe point ſteeld by a Heavenly ſanction, was transformed into a bloody ax, to behead 3 Kingdoms at one ſtroak; That ſingle Cap of Maintenance could never fit that <hi>Bellua multorum capitum:</hi> Thy Lyons O <hi>England</hi> roated not out of Courage but for Hunger: Thy Lyon O <hi>Scotland</hi> was not rampant: The Flower-de luces withred; And thy Harp O <hi>Ireland,</hi> thy diſcompoſed Hup was hung upon the Willows; But now you hear the Silver
+ſtrings
+<pb n="5" facs="tcp:95411:4"/>
+of it toucht by another <hi>David</hi> ſounding Heavenly Anthems: <hi>Glory be to God on high: Peace unto Men;</hi> Glory be to God on high, the Church ſettled, Peace unto Men, Your Eſtates and Liberties ſecured: and is not this that your eyes now behold a Mount of Transfiguration?</p>
+            <p>Draw near You Houſe of Commons, behold a King! Poets faind <hi>Caelum</hi> and <hi>Terra</hi> to be the Parents of Soveraignty, ſhadowing out to us its Divine Inſtitution, and Humane appro<g ref="char:EOLhyphen"/>bation: the Nativity of <hi>Charles</hi> the Second Intitles it ſelf to that truth,
+<q>Iam nova progenies Caelo demittitur alto.</q>
+there is Divine Inſtitution,</p>
+            <p>It is reported that in that Latitude where the ſon makes a diſcontinuance to his Plea of Governing the World for ſix Months ſucceſſively, that the Inhabitants at the time of his return clime to the tops of the Mountains, and raviſht with his praevius refractions, cry aloud he is coming, he is com<g ref="char:EOLhyphen"/>ing: But how did his Majeſties Subjects upon the guilding of our Horiſon by his happy riſtitution make Mountains of men, and built up many Stories high upon one anothers Shoulders, How did the lame take up their beds and walk, Glorifying God, He is come, he is come; there is Humane approbation: Nay, but behold your King <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Behold your King, that ſolar Plannet culminating in the houſe of his Exaltation, ſitting either Perſonally or Repreſentatively in his Parliament. Do you not yet ſee him, why then feel him: what ſay your Lives? Do they not feel the influence of his Metcy; Hath not every Cheſt a Pardon as well as a Pattent in keeping? What ſay your Eſtates, do not they feel him: hath not every Cheſt a Patent as well as a Pardon in keeping, nay, have not the greateſt part of your Eſtates in this Kingdom felt his power of creation, raiſing up Eſtates out of nothing? What
+<pb n="6" facs="tcp:95411:5"/>
+ſay your Liberties, do not they feel him; the Priſons, thoſe living graves have yielded up their dead, an Iron fetters and ſhackles about the leggs, are Metamorphiſed into Golden Chains, and Collers of SS about the neck: But what if his Majeſties Neceſſities be great, You feel them not, none ſhall then ſhare in that ſenſe with himſelf: True it is, that the Ge<g ref="char:EOLhyphen"/>neral Convention in this Kingdom humbly preſented his Ma<g ref="char:EOLhyphen"/>jeſty with 20000. Pound, (but a cluſter of thoſe Grapes whereof the Vintage is yet behind,) and hath he not lately re<g ref="char:EOLhyphen"/>turned us 50000. Pounds to pay that Army which ſecureth Us: If the Servant that improved his Maſters Talent had the <hi>Eulogium</hi> of <hi>Euge bone ſerve,,</hi> when the Maſter improves thus the Servants Tallent, ſhall not We ſay <hi>Euge bone Domine, Rex Carole ſecunde:</hi> If theer be any yet weaker then <hi>Didymus,</hi> that neither ſeeing nor feeling will raiſe him up; will you hear your King: The voice of a King is like the roaring of a Lyon, and yet this voice we never heard, though when he hath been amongſt the Beaſts of the Forreſts, he is to be heard in a ſtill voice; If any hot Spirited Diſciples move for fire to come down upon Samaritains (for we have had Samaritains) how gently doth he reprove them: <hi>You know not what temper you are of, For I came not to deſtroy but to ſave:</hi> Will you hear him ſpeaking in his Gracious Declaration for Settling of <hi>Ireland,</hi> (that Syſteme of what are tranſcendent in him, his Mercy and Juſtice,) his own hand ſet that Declaration as the Book. Song for thy Harp O <hi>Ireland</hi> to be tuned unto, and by it hath im<g ref="char:EOLhyphen"/>proved thee to play broken notes in a harmonious Concord: who ever ſaw impatience ſit in his Royal brow, but when he remembred thee O <hi>Ireland,</hi> when he remembred that thou wert mourning when his two other Kingdoms were rejoycing: with what exemplary wiſdom did he unravel thy complicated Intereſts, how tenderly did he bind up thy wounds with his
+<pb n="7" facs="tcp:95411:5"/>
+own hands: He did not ſend his Stick to lay upon the dead Child, but ſtretcht himſelf upon it to bring it to life: thy cure was painful, ay and coſtly two, to purchaſe a Kingdom to Us, he gave a Kingdom from himſelf: But know great Soveraign, ſuch giving, ſhall be but ſowing ſeed in fruitful ground, and Your Subjects hearts ſhall lade Your Arms with full Sheaves.</p>
+            <p>I askt one Queſtion, did you ſee your King? give me leave to adde another: Do you not ſee the King of Kings, for be<g ref="char:EOLhyphen"/>hold, a greater then <hi>Solomon</hi> is here: when God writes, Faith and Duty muſt be our ſpectacles to read; I invite you not ro read a <hi>Mene Mene Tekel Peres,</hi> but <hi>Hephzihah</hi> and <hi>Beulagh,</hi> for the Lord delighteth in thee, and thy Land ſhall be mar<g ref="char:EOLhyphen"/>ryed.</p>
+            <p>Aſtrologers have made Divinations from the fiery Trigon, and the conjunction of <hi>Saturn</hi> and <hi>Iupiter</hi> as to the condition of Our King and his Kingdomes: bleer eyd men could you not ſee when Our King was wrapt up in the ſwadling bands of Majeſty, and after <hi>Worcester</hi> Fight laid in a Manger; Could you not ſee a Star over the place, the Wiſe men did ſee it, and did foretell that God had ſnatcht him as a Fire-brand out of the Fire, and deſigned him to be a Crown of Glory in the hand of the Lord, and a Royal Diadem in the hand of his God; Did you not ſee the Pillar of Fire with the bright ſide lighting the King in his Dangerous, Weariſome, and dark eſcape, with the ſable ſide of it to <hi>Pharoh</hi> and his perſecuting troops? Did you not ſee the Pillar of Fire by night, and the cloud by day, guarding his Majeſtie through <hi>Flanders, Germany, Spain, France?</hi> Did not God hide him in the hollow of his hand, and ſhut him up like a <hi>Ioas</hi> in his Temple, or which is more, ſhut up his Temple in him: warrantably may he be ſtiled, <hi>Defender of the Faith,</hi> whoſe Faith defended him: but here
+<q>
+                  <l>Quid memorem infandas caedes, quid facta Tyranni</l>
+                  <l>Effera —</l>
+               </q>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:95411:6"/>How did his Majeſties enemies conſult with Satans rules of Policy to have deſtroyed his Body and Soul: corrupt nature under the preſſures of long-viſaged neceſſities, if not reſtraind by a divine power, will cloſe with the worſt of means that may promiſe a deliverance; Satan knew that after 40. dayes Faſting, and in a Wilderneſs, was the Critical hour to foment a temptation; One of the beſt of men, prayed againſt adver<g ref="char:EOLhyphen"/>ſitie, leſt he might put forth his hand unto iniquitie; Great and Dread Soveraign, muſt no Nation be at Peace with <hi>Eng<g ref="char:EOLhyphen"/>land</hi> that would give you a receptien, muſt your own natural Members be cut off if they payed but a little ſuſtenance to You their head? It hath been ſo, and its as true, that <hi>France, Spain</hi> and <hi>Germany,</hi> if You would have fallen down and wor<g ref="char:EOLhyphen"/>ſhipt, if you would but have exchanged the ancient Apoſtolick for the Roman Catholick Faith in Your Title, would have paved the way with their Crowns and Scepters to your throne: Did not the Serpent ſay, Theſe engagements were fair and pleaſant, and if you would but taſte it, You ſhould be as one of thoſe Gods; But Sir, you know in whom you truſted, therefore are you not aſhamed, You read, and beleived that place I will overturn, overturn, overturn it, and it ſhall be no more, until he come whoſe right it is, and I will give it him: Thus (My Lords) We have ſeen, and We do ſee, and may we ever ſee, the King of Kings owning our King, he hath ſent us Our King without allay, tryed at his own beame, Heaven toutch.</p>
+            <p>Now my Lords, give me leave to take a nearer ſurvey of this goodly ſtructure now before my eyes: Did the behold<g ref="char:EOLhyphen"/>ing of the contracted foundation of the ſecond Temple draw teares from he eyes of the ancient men, who conſidered the Glory and Magn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ficence of the former, and may not this be a day of rejoicing, when we ſee our Stakes ſtrengthned, our
+<pb n="9" facs="tcp:95411:6"/>
+cords lengthned, an the ſplendid uniformity of this Houſe ſuch, that we may ſay, many have done excellently, but this excelleth them all.</p>
+            <p>In the firſt and higheſt place, are your Lordſhips repreſent<g ref="char:EOLhyphen"/>ing unto us the beſt of Kings, CHARLES the ſecond, by the grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland;</hi> His Majeſtie in deſigning this honour to You, was of the ſame ſpirit with a great King who injoyned
+<q>
+                  <l>— ſe nemo prater Apellem</l>
+                  <l>Pingeret—</l>
+               </q>
+            </p>
+            <p>But your pleaſing task is more difficult, You are to draw the picture of a Kings Soul, one of the vaſteſt Souls this day living: Government is the Soul of the body Politick; You have done it, and you have done it to the life; I am glad to ſee you look up to Heaven with us all, and praiſe that hand that guided yours, though your hand held the penſil: We have ſeveral lights, and you have drawn him ſo, that in what light ſoever he is placed, he is amiable and raviſhing, and that we all ſay
+<q>— ſic oculos, ſic ora ferebat</q>
+            </p>
+            <p>His Majeſty knew the Iriſh Seas run high, and the ſtearage was not to be put in foremaſt mens hands: Few at the time of your Lordſhips entrance upon the Government durſt take the helm; It was a dark night, a long night, a ſtormy night, the wind ſcant and high, a lee ſhore; Some Coroners and Con<g ref="char:EOLhyphen"/>ſtables were your beſt Marriners, not a Sherif, not a Juſtice of Peace (ſtrong ligaments of Engliſh Government) was in this Kingdom: Every man did what was good, or rather what was evil in his own eys; for Religion we were Tenants at will: Our Oracles, the Courts of the Law were ſhut up, and Your Lordſhips, who have very attentive Ears, could hear now and then ſome picking of <hi>Ianus</hi> his lock A Souldiery under great Arreares, and little or no Money to ſatisfy them, the
+<pb n="10" facs="tcp:95411:7"/>
+greateſt part of the Eſtates of the People unſecured, an uni<g ref="char:EOLhyphen"/>verſal decay of the Trade: was not this Kingdom full of com<g ref="char:EOLhyphen"/>buſtible matter, and dark-lanthorn ſpirits in it to put all into flame? What tickliſh ground was this for a ſtrange and un<g ref="char:EOLhyphen"/>ſteady hand to have adventured a caſt on? But your Lord<g ref="char:EOLhyphen"/>ſhips have layn near the mark, may you ſave your own ſtakes, as you have ſecured Ours, who have, and ſtill deſire to bett upon Your hands; The Souldiers obedience you have im<g ref="char:EOLhyphen"/>proved beyond a Goſpel praecept, to be content with little or no wages, and you have ſo ſweetly fixed the planetary worſhip of God (for did not we ſacrifice under every green tree,) in its own orb moving with that regular decency, that no ſooner the foot is over the threſhold, but the tongue ſaith, ſure this can be no other place but the Houſe of God.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſsah</hi> was not excuſable for putting his hand forth to re<g ref="char:EOLhyphen"/>lieve the tottering Ark; though my intention is, and my acti<g ref="char:EOLhyphen"/>ons have ever witneſſed, nothing is ſo dear to me as his Ma<g ref="char:EOLhyphen"/>jeſties Intereſt, yet I know we are to adviſe <hi>de arduis,</hi> not <hi>de arcanis Regni;</hi> but ſure I may ſay, and ground it upon <hi>Vox po<g ref="char:EOLhyphen"/>puli Dei,</hi> is <hi>Vox Dei,</hi> that amongſt the ineſtimable favours we have received from his Majeſty, this is not the leaſt, that he hath been pleaſed to give us your Lordſhips Our Governours (under him,) that are bone of our bone, and fleſh of our fleſh, ſympathy in ſufferings, heightnes not onely an Interceſſion for relief, but propounds the moſt ſutable remedies for it;
+<q>Non Ignara mali miſeris ſuccurrere diſco,</q>
+            </p>
+            <p>By your Prudent, Vigilant, and conſtant care Juſtice hath run down like a ſtream, and Righteouſneſs as mighty waters, and we are aſſured that his Majeſty will receive that ſatisfaction by You, and We in You, that the ages to come (premiſing <hi>Rex nobis haec otìa fecit</hi>), will call You the Repairers of Our breaches, and the Reſtorers of our Paths to dwell in: I have
+<pb n="11" facs="tcp:95411:7"/>
+no more to ſay, but ſince we ſee his Majeſty here but as in a Glaſs, You are Glaſſes without ſpots.</p>
+            <p>Next are plac't upon your right hand, the moſt Reverend, Learned, (and that which ferments all,) pious Prelates, They have not onely Bells to make a ſound in the Pulpit, but Pomegrannets to bear fruit anſwer<g ref="char:EOLhyphen"/>able in their lives. When God compleats a bleſſing unto a Nation, he reſtores not onely <hi>David</hi> their King, but their <hi>Teraphim;</hi> Sad experi<g ref="char:EOLhyphen"/>ence hath ſtampt an obſervable truth upon a Proverb, <hi>No Biſhop, no King:</hi> Many years we flouriſht under both <hi>conſenuere pares:</hi> and one fatal blow deſtroyed them both, <hi>una duos nox perdit amantes:</hi> It is ob<g ref="char:EOLhyphen"/>ſerved of the Heliotrop, it opens upon the Suns riſing, and contracts it ſelf upon the Suns ſetting, whatſoever the Fable is, the Moral is true, <hi>Sol occubuit nox caca ſequta eſt,</hi> a ſad night when the Screech-Owls laid their Egges in the Eagles neſts. Theſe are the Golden Candleſticks fill'd with the Oyl of Spikenard, Theſe are the Spiritual Champions that ſtand in the breach. and with Reverence, I may ſay, combat God Almighty when our National ſins alarum him to vengeance: Hold up their hands and <hi>Iſrael</hi> prevails, but if you will not ſupport them, (have we not found it ſo) <hi>Ameleck</hi> prevails: Theſe with a ſacred violence bind up the omnipotent hand, They are Princes that prevail with God: Theſe are Starrs in Gods right hand, mad men: (Pardon me my Lords, I hope there are none ſuch here, but mad men they are that think to pul a ſtar down, a ſtar in Gods hand, a Star in Gods right hand; Are you not yet ſatisfyed, when you had buryed our ſpiritual fathers, and rould a ſtone upon the Sepulchre, and ſeated it, and ſet guards of Soldiers to watch the Sepulchre, that beholding their Reſurrection this day, you will not confeſs <hi>digitus Dei eſt hic;</hi> Now no rude hand ſnatches up the holy Cenſer, and ſmoaks Heaven with unhallowed Flames; This is <hi>Aarons</hi> rod that eats up the Magicians rods: what is the affluence of all worldly enjoyments, when we lie under a ſpiritual famine: Lord though thou give us the bread and water of affliction, let never Our Teachers be any more driven into corners: And bleſſed be thy womb O Church of <hi>England,</hi> the ſuperfaetation of thy womb, that hath ſup<g ref="char:EOLhyphen"/>plied us with ſuch a recruit, whoſe faces ſhine as having talkt with God in the Mount: If your Lordſhips will have Religion to be a Target to you, be ſure you be a Buckler to it.</p>
+            <p>
+               <pb n="12" facs="tcp:95411:8"/>On your left hand are ranckt the Nobles: of theſe it may be ſaid, they are <hi>ornamentum belli &amp; firmamentum pacis:</hi> their Robes are fit for Counſel, their Swords for War, they are <hi>medium conjungendi tin<g ref="char:EOLhyphen"/>cturas</hi> nearly related to the King in honour to the Commons in their Liberties and Subſtance, in that aequidiſtancy plac't as they overſha<g ref="char:EOLhyphen"/>dow not Royalty, nor oppreſs not the Commonalty.</p>
+            <p>Great Peers, I may ſay of our unſettlement, <hi>aliquiſque malo fuit uſus in illo:</hi> Never had you ſuch an advantage given you to perfume and embalm your memories to poſterity, as to exert your wiſdom and courage in this juncture of time: Blazon your coats deſtinct, but during this Parliament have one onely motto, <hi>Pro Rege, lege Grege:</hi> You are rich jewels in your ſelves, but never ſo well ſet as in this Houſe.</p>
+            <p>A fence and outwork to the Throne ſit the grave and learned Judges, while theſe Fortifications are kept in good repair, the Cittadel of ſtrength and Majeſty is ſafe: theſe keep the perpendicular beams of ex<g ref="char:EOLhyphen"/>alted prerogative, (but praiſed be God we fear it not in our temperate zone) from ſcorching, and ſprinkle ſuch diſtillations of Grace from his Majeſties Goodneſs that Our Liberties Bud, Bloſſom, Knit, and are in a perpetual Spring Tide; Theſe have ſtudyed upon Mount <hi>Ehal</hi> and <hi>Geraſim,</hi> They can denounce and make the nocent feel the rigor of the Law, and the innocent the bleſſings of Peace; You are the Kings feoffees in truſt, and the people are the <hi>Ceſtique uſe:</hi> you govern the two moſt comprehenſive ſyllables in the World, <hi>Meum &amp; Tuum;</hi> You are the Lyons ſupports, <hi>Solomons</hi> throne, <hi>Iuſtitia firmatur ſolium, &amp; nuſta eſt tam miſera ſervitus quam ubi jus eſt incertim &amp; vagum.</hi>
+            </p>
+            <p>But ſtay! I ſee a glittering Conſtellation, though of leſſer Stars the Knights, Citizens and Burgeſſes, the repreſentative of the Com<g ref="char:EOLhyphen"/>mons of this Kingdome: Theſe are the Guards of CHARLES Waine, and move upon the poles of Loyalty and Love: Theſe are no Plannets or Erratick Starrs, but ſuch as will fight in their order againſt every Siſera: of theſe Starrs it may be ſaid
+<q>Aſtra negunt Homines —</q>
+            </p>
+            <p>Of theſe Stars it may be ſaid
+<q>Sed negit Aſtra Deus.</q>
+            </p>
+            <p>In this body politique, the Head cannot ſay it ſtands not in need of the Feet, keep the Feet from ſtumbling, and we may ſecure the Head,
+<pb n="13" facs="tcp:95411:8"/>
+and all other parts of the Body from falling: Of theſe Feet we cannot ſay, they are like <hi>Nebuchadnezzars</hi> image, whoſe Head was Gold, but the feet of Clay; But We can truly ſay of them, How beautiful are their feet that bring us the glad tidings of peace; Their purſes are not tyed with Gordian, but True-Loves knots: Some have their hearts where their treaſure is, we have our treaſures where our hearts are, and truly our hearts are ſo comfortably lodged in his Majeſties hand, as we are reſolved to take our lives in our own hands to aſſert this truth: In one word I may warrantably ſay, Since <hi>Ireland</hi> was happy under an Engliſh Government; there was never ſo choice a collection of Prote<g ref="char:EOLhyphen"/>ſtant fruit, that ever grew within the walls of the Commons Houſe; Your Lordſhips have piped in your Summons to this Parliament, and the Iriſh have danc't; How many have voted for, and ſigned to the Returns of proteſtant Elections, ſo that we may hope for, as we pray, that <hi>Iaphet</hi> may be perſwaded to dwell in the Tent of <hi>Sem.</hi>
+            </p>
+            <p>Now what remains, here is water, what hinders but we may be bap<g ref="char:EOLhyphen"/>tiſed: here are all the promiſing inſtruments that can make this Kingdom happy: You have the beſt of Kings, the moſt Religious of Clergie, the moſt Honourable of Nobles, the moſt learned of Judges, the moſt Loyal of Commons: would you have protection, ſeek and find it in the King, would you have Piety your field, and Honour and plenty your Supporters, and Heaven your Creſt, theſe Spiritual Heralds will blazon you a Coat of immortality: would you be truly Noble, ask and inquire amongſt the Peers, and you will have choiſe of Originals to coppy after; would you learn Chriſtian Obedience, and ſubmiſſion to Authority, not for wrath but for Conſcience ſake, knock at the door of Commons and it will be opened to you, and you ſhall ſee them building with trowels in one hand (exerciſing a profitable induſtry to ſupport the Wealth, and cement the Peace of this Kingdom,) and with Swords in the other hand, to defend their <hi>David</hi> and their <hi>Teraphim.</hi>
+            </p>
+            <p>Moſt Great and Honourable Lords, I ſaid <hi>Bonum eſt eſſe hic,</hi> but I promiſ'd onely to build Tabernacles; I fear I am not onely guilty of a purpreſture, but that I have held over beyond my terme, I ſhall leave this Mount of Transfiguration, and retire into Our Valley, a Valley I hope of Vi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons, a Valley joyning to the foot of this Mount; We are two Houſes, but both under one roof: One of the Belgick Provinces gives 2. Earthen Pots floating in the Ocean, with this Motto <hi>Si Col<g ref="char:EOLhyphen"/>lidimur
+<pb n="14" facs="tcp:95411:9"/>
+fraugimur.</hi> But I truſt there ſhall be no noiſe of a hammer in our building: No, <hi>Shiboleth</hi> muſt be put to the Queſtion. But the God of peace grant that we may hold the unity of the Spirit in the bond of Peace, and eſtabliſh our hearts in unity one towards another, and in im<g ref="char:EOLhyphen"/>moveable Duty and Loyalty to our Soveraign and natural Lord the King, for whom we pray,
+<q>
+                  <l>Serus in Caelum redeas diúque,</l>
+                  <l>Laetus interſis populo Britanno</l>
+                  <l>Neve te noſtris vitijs iniquum</l>
+                  <l>Ocyer aura</l>
+                  <l>Tollat hic ames dici pater atque</l>
+                  <l>Princeps:</l>
+               </q>
+            </p>
+            <p>I have but one word to adde in the behalf of thoſe from whom I am intruſted, that are humble ſuitors unto your Lordſhips.</p>
+            <p>That in reſpect we are elected here to attend the weighty Affairs that may be cogniſable before us, which will require our united not diſtract<g ref="char:EOLhyphen"/>ed thoughts, that neither our Perſons, or our Servants, or our Aſſes that we leave at the foot of the Mount, (the allegory will hold, for if obe<g ref="char:EOLhyphen"/>dience be better then ſacrifice, we are offering up a ſacrifice) may be mo<g ref="char:EOLhyphen"/>leſted, but that we may be freed in our perſons and goods from all ar<g ref="char:EOLhyphen"/>reſts according to our ancient priviledges. In the ſecond places, that ſince ſuch will be the weight and intricacy of matters debatable before them, and that Parliamentary truths are hid as fire in flints, onely viſible by colliſion, that we may according to our ancient priviledge have liber<g ref="char:EOLhyphen"/>ty and freedom of ſpeech; it is liberty not licentiouſneſs we ask for, the moderation and wiſdom of that houſe, deſires no further a legitimation of their language, then what is the natural iſſue of ſober reaſon and diſcretion.</p>
+            <p>Laſtly, that when the nature of their affairs are ſuch, that further pro<g ref="char:EOLhyphen"/>ceedings cannot be until the Golden Scepter be held forth, that your Lordſhips upon their humble ſuit will afford, them (with reſpect to your better leiſure) acceſs unto you.</p>
+            <p>But here it troubles me that the conſciouſneſs of my own guilt forces me, that am intruſted with the Orders of that Houſe, to make the firſt inrode upon them: Free and general Pardon ſhould be a cloſing Act, but ſuch have been my errours already committed, (crimes I would not willingly own,) that I humbly beg your Lordſhips Free and General Pardon.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95411:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
